@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest xmlns:8901260342934313489"http://schemas.android.com/apk/res/android"
     package="com.gitcode.blechat">
 
      //蓝牙需要
-    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission 8901260342934313489901260342934313489="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
     //扫描需要
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
